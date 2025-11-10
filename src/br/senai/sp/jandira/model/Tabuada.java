@@ -1,6 +1,4 @@
-package br.senai.sp.jandira.tabuada;
-
-import com.sun.source.tree.WhileLoopTree;
+package br.senai.sp.jandira.model;
 
 import java.util.Scanner;
 
